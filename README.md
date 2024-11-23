@@ -1,0 +1,1 @@
+This is a test website that includes two html files the index file contains the code of the main page of the website that has two section .The first one Home and the second one More .The second file Contact.html contains a login form .That asks the user for the email and password then a button to login .If the user doesn't have an account ,therre is a register link .
